@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Patidar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning WebDev and DSA
-- 💞️ I’m looking to collaborate on React Projects
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me 2019eeb1195@iitrpr.ac.in
 
 <!---
